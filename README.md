@@ -34,8 +34,7 @@ The goal of this project is to apply hospitality revenue analytics and EDA techn
 ## 📂 Dataset Information & Credit
 ## Dataset Information & Credit
 
-The dataset used in this project was provided as part of the course  
-**Gen AI & Data Science Bootcamp**, conducted by **Codebasics**.
+The dataset used in this project was provided as part of the course **Gen AI & Data Science Bootcamp**, conducted by **Codebasics**.
 
 Full credit goes to the **Mr. Dhaval Patel** and the Codebasics team for providing the dataset and learning resources.
 
